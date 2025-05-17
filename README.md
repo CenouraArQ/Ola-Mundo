@@ -1,3 +1,4 @@
 # Olá, Mundo! 
-Primeiro repositório git e github
+Primeiro repositório git e github.
+
 Estudos.
