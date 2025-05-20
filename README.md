@@ -1,3 +1,5 @@
-# Primeiro Repositório. Olá, Mundo! 
-Primeiro repositório git e github
-Aula de Github
+# Primeiro Repositório. 
+# Olá, Mundo! 
+Aula de Github.
+
+Primeiro repositório git e github.
